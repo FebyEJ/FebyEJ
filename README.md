@@ -3,7 +3,7 @@
 <!-- =========================================================== -->
 
 ## 👨‍💻 About Me
-A full-stack Software Engineer passionate about building functional and user-centric web applications. Loves exploring new technologies, with strong interest in Artificial Intelligence and Cybersecurity. Always learning, always building. 
+A Full-stack Developer and AI/ML Engineer, passionate about building functional and user-centric web applications. Loves exploring new technologies, with strong interest in Artificial Intelligence and Cybersecurity. Always learning, always building. 
 
 ---
 
